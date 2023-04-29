@@ -433,7 +433,7 @@ input:checked + .slider:before {
 }
 .line-1 {
   position: relative;
-  top: 10%;
+  top: 18%;
   width: 12em;
   margin: 0 auto;
   border-right: 2px solid rgba(25, 25, 25, 0.75);
