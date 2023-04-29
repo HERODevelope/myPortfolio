@@ -196,6 +196,15 @@ button:focus {
   -o-transition: all 0.5s;
   transition: all 0.5s;
 }
+.project1 {
+  background-image: url("../img/project1.png");
+}
+/* .project2 {
+  background-image: url("../img/project2.png");
+} */
+.project3 {
+  background-image: url("../img/project3.jpg");
+}
 .image-project:hover .img-pro {
   transform: scale(1.2);
 }
