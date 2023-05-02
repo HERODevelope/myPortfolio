@@ -112,6 +112,7 @@ button:focus {
 .about-text {
   width: 80%;
   padding: 2%;
+  text-align: justify;
 }
 .red-line {
   color: var(--primary-color);
@@ -123,6 +124,7 @@ button:focus {
   padding-bottom: 5px;
   border-bottom: solid 2px var(--primary-color);
   margin-bottom: 15px;
+  text-align: justify;
 }
 .skill__square {
   display: inline;
@@ -199,9 +201,9 @@ button:focus {
 .project1 {
   background-image: url("../img/project1.png");
 }
-/* .project2 {
+.project2 {
   background-image: url("../img/project2.png");
-} */
+}
 .project3 {
   background-image: url("../img/project3.jpg");
 }

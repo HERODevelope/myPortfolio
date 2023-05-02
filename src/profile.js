@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "Full Stack Developer and UX/UI Designer",
+  name: "Mid-Level Front-End Developer",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "My name is Henry Tomas. I'm a full stack developer. I have developed many types of full-stack products. Customers that are using my product become grow.",
+    "My name is Christopher Lam. I'm a front-end developer. Experienced mid-level front-end developer with 5+ years of experience in and implementing 20+ user interface for websites and web applications. Proficient in HTML, CSS, and JavaScript, with experience in front-end frameworks such as React and Angular. Strong understanding of web development best practices, version control systems, and Agile development methodologies. Excellent communication ability and ability to work collaboratively with designers and back-end developers to deliver high-quality projects on time and within budget."
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -42,39 +42,19 @@ const skillsBar = [
     faClass: "fab fa-js",
   },
   {
-    name: "SASS",
+    name: "React",
     // svg: '',
-    faClass: "fab fa-sass",
+    faClass: "fab fa-react",
   },
   {
-    name: "Node",
+    name: "Angular",
     // svg: '',
-    faClass: "fab fa-node",
+    faClass: "fab fa-angular",
   },
   {
-    name: "Python",
+    name: "Git",
     // svg: '',
-    faClass: "fab fa-python",
-  },
-  {
-    name: "Java",
-    // svg: '',
-    faClass: "fab fa-java",
-  },
-  {
-    name: "PHP",
-    // svg: '',
-    faClass: "fab fa-php",
-  },
-  {
-    name: "Database",
-    // svg: '',
-    faClass: "fas fa-database",
-  },
-  {
-    name: "AWS",
-    // svg: '',
-    faClass: "fab fa-aws",
+    faClass: "fab fa-git",
   },
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
@@ -146,7 +126,7 @@ const social = {
   // twitter: "https://twitter.com",
   instagram: "https://instagram.com",
   linkedin: "https://linkedin.com",
-  resume: "https://novoresume.com/",
+  resume: "./src/Front-End Developer.pdf",
 };
 // Dont change anything here
 export {
