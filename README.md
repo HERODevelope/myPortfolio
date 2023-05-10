@@ -36,7 +36,7 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Contact Form\
 ✔️ Social Profile\
 
-To view a live example, **[click here](https://kaustubhai.netlify.app/)**.
+To view a live example, **[click here](https://hero-b36a5.web.app/)**.
 
 
 ## Getting Started
